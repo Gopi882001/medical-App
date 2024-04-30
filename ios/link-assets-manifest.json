@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/fonts/Apercu-Bold.ttf",
+      "sha1": "d2a735b962908d63aafb6f1d834335c9eb03dde9"
+    },
+    {
+      "path": "app/assets/fonts/Apercu-Regular.ttf",
+      "sha1": "49bfb682747e3b9bdcb21979cbb01350943642ec"
+    },
+    {
+      "path": "app/assets/fonts/FontsFree-Net-mont.ttf",
+      "sha1": "83f5f17e6052156d1c3378b19e2e88e92a5ccbf7"
+    },
+    {
+      "path": "app/assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "04052dc3b846609216de1e0cbcec337c6b6e74f6"
+    },
+    {
+      "path": "app/assets/fonts/OpenSans-Bold.ttf",
+      "sha1": "1e3704ee48b5ff7e582488ead87b05249f14dc1c"
+    },
+    {
+      "path": "app/assets/fonts/OpenSans-Regular.ttf",
+      "sha1": "babe8dce93a3e48b6c3c79720a0c048e88dd1fe7"
+    },
+    {
+      "path": "app/assets/fonts/OpenSans-SemiBold.ttf",
+      "sha1": "e256f8391718ef61f253dfb4e95bbeb3c5857afc"
+    },
+    {
+      "path": "app/assets/fonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "app/assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "app/assets/fonts/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "app/assets/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "app/assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "app/assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "app/assets/fonts/TitilliumWeb-Bold.ttf",
+      "sha1": "ac297303cc8329cbfa3c04a3f424d41982532ba5"
+    },
+    {
+      "path": "app/assets/fonts/TitilliumWeb-Regular.ttf",
+      "sha1": "3e2ead835511bff7fe5874e95880283b002b9eab"
+    },
+    {
+      "path": "app/assets/fonts/digital-7 (mono).ttf",
+      "sha1": "5049a2efa785949f9f101334aac778fd9bd5b96b"
+    }
+  ]
+}

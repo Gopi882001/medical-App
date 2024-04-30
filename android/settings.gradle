@@ -1,0 +1,6 @@
+rootProject.name = 'Project M'
+include ':react-native-webview'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+project(':react-native-webview').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-webview/android')
+include ':app'
+includeBuild('../node_modules/react-native-gradle-plugin')
